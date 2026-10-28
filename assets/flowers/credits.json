@@ -1,0 +1,74 @@
+[
+  {
+    "id": "rose",
+    "file": "Rose flower.jpg",
+    "url": "https://commons.wikimedia.org/wiki/File:Rose_flower.jpg",
+    "author": "Paolo Neo",
+    "license": "Public domain",
+    "licenseUrl": "",
+    "changes": "Resized and converted to JPEG; displayed cropped in cards."
+  },
+  {
+    "id": "peony",
+    "file": "PaeoniaSuffruticosa7.jpg",
+    "url": "https://commons.wikimedia.org/wiki/File:PaeoniaSuffruticosa7.jpg",
+    "author": "Taken by <a href=\"//commons.wikimedia.org/wiki/User:Fanghong\" title=\"User:Fanghong\">Fanghong</a>",
+    "license": "CC BY 2.5",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.5",
+    "changes": "Resized and converted to JPEG; displayed cropped in cards."
+  },
+  {
+    "id": "tulip",
+    "file": "צבעונים.JPG",
+    "url": "https://commons.wikimedia.org/wiki/File:%D7%A6%D7%91%D7%A2%D7%95%D7%A0%D7%99%D7%9D.JPG",
+    "author": "Dina L",
+    "license": "CC0",
+    "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+    "changes": "Resized and converted to JPEG; displayed cropped in cards."
+  },
+  {
+    "id": "daisy",
+    "file": "Leucanthemum_vulgare_'Filigran'_Flower_2200px.jpg",
+    "url": "https://commons.wikimedia.org/wiki/File:Leucanthemum_vulgare_%27Filigran%27_Flower_2200px.jpg",
+    "author": "Photo by and (c)2008 Derek Ramsey (<a href=\"https://en.wikipedia.org/wiki/User:Ram-Man\" class=\"extiw\" title=\"en:User:Ram-Man\">Ram-Man</a>).  Co-attribution must be given to the Chanticleer Garden.",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
+    "changes": "Resized and converted to JPEG; displayed cropped in cards."
+  },
+  {
+    "id": "hydrangea",
+    "file": "Pink Hydrangea macrophylla.jpg",
+    "url": "https://commons.wikimedia.org/wiki/File:Pink_Hydrangea_macrophylla.jpg",
+    "author": "AlmightyWorm",
+    "license": "CC0",
+    "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+    "changes": "Resized and converted to JPEG; displayed cropped in cards."
+  },
+  {
+    "id": "lily",
+    "file": "Lilium_candidum_1.jpg",
+    "url": "https://commons.wikimedia.org/wiki/File:Lilium_candidum_1.jpg",
+    "author": "<a href=\"//commons.wikimedia.org/wiki/User:Stan_Shebs\" title=\"User:Stan Shebs\">Stan Shebs</a>",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "changes": "Resized and converted to JPEG; displayed cropped in cards."
+  },
+  {
+    "id": "chrysanthemum",
+    "file": "ChrysanthemumMorifolium.jpg",
+    "url": "https://commons.wikimedia.org/wiki/File:ChrysanthemumMorifolium.jpg",
+    "author": "Photo taken by <a href=\"//commons.wikimedia.org/wiki/User:Fanghong\" title=\"User:Fanghong\">Fanghong</a>",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
+    "changes": "Resized and converted to JPEG; displayed cropped in cards."
+  },
+  {
+    "id": "eustoma",
+    "file": "Lisianthus_2025.jpg",
+    "url": "https://commons.wikimedia.org/wiki/File:Lisianthus_2025.jpg",
+    "author": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:Wasir_kasab&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:Wasir kasab (page does not exist)\">Wasir kasab</a>",
+    "license": "CC BY 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+    "changes": "Resized and converted to JPEG; displayed cropped in cards."
+  }
+]

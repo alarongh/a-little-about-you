@@ -1,0 +1,29 @@
+<!doctype html>
+<html lang="ru">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="theme-color" content="#f7e8ec">
+  <meta name="robots" content="noindex,nofollow">
+  <meta name="description" content="Немного вопросов о тебе. В своём темпе, с возможностью пропустить любой вопрос.">
+  <title>Немного о тебе</title>
+  <link rel="icon" href="assets/flower.svg" type="image/svg+xml">
+  <link rel="stylesheet" href="styles.css">
+  <script src="questions.js" defer></script>
+  <script src="app.js" defer></script>
+</head>
+<body>
+  <div class="lace lace-left" aria-hidden="true"></div>
+  <div class="lace lace-right" aria-hidden="true"></div>
+  <header class="site-header">
+    <a class="wordmark" href="#" data-action="home"><img src="assets/flower.svg" alt="" width="25" height="25"> Немного о тебе</a>
+    <button class="quiet" data-action="topics">Все темы <span aria-hidden="true">↗</span></button>
+  </header>
+  <main id="app"></main>
+  <footer class="site-footer"><span>В твоём темпе.</span><span>Любой вопрос можно пропустить.</span></footer>
+  <div id="notice" class="toast" role="status" aria-live="polite"></div>
+  <dialog id="copy-dialog"><form method="dialog"><button class="quiet dialog-close" aria-label="Закрыть">Закрыть ×</button></form><h2>Твои ответы</h2><p>Скопируй этот текст и отправь его в личном сообщении.</p><textarea id="copy-output" readonly aria-label="Текст результатов"></textarea><button class="button" id="select-copy">Выделить весь текст</button></dialog>
+  <dialog id="reset-dialog"><h2>Начать заново?</h2><p>Ответы, сохранённые в этом браузере, будут удалены. Скачанный файл останется у тебя.</p><div class="button-row"><button class="button" data-action="cancel-reset">Оставить ответы</button><button class="button secondary" data-action="confirm-reset">Удалить и начать</button></div></dialog>
+  <noscript><p class="noscript">Для вопросов и сохранения ответов нужно включить JavaScript в браузере.</p></noscript>
+</body>
+</html>
